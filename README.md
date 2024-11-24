@@ -1,5 +1,15 @@
 # Sistema Bancário
 
+![CI](https://github.com/tatilimongi/DIO_NTTData_Bootcamp_Sistema_Bancario/actions/workflows/ci.yml/badge.svg?event=push)
+![Coverage](https://codecov.io/gh/tatilimongi/DIO_NTTData_Bootcamp_Sistema_Bancario/branch/main/graph/badge.svg)
+![Last Commit](https://img.shields.io/github/last-commit/tatilimongi/DIO_NTTData_Bootcamp_Sistema_Bancario)
+
+![Commit Activity](https://img.shields.io/github/commit-activity/m/tatilimongi/DIO_NTTData_Bootcamp_Sistema_Bancario)
+![Release](https://img.shields.io/github/v/release/tatilimongi/DIO_NTTData_Bootcamp_Sistema_Bancario)
+![License](https://img.shields.io/github/license/tatilimongi/DIO_NTTData_Bootcamp_Sistema_Bancario?style=flat-square)
+
+## Descrição
+
 Este projeto é um desafio do bootcamp oferecido pela NTT Data na plataforma DIO, desenvolvido em Python. O objetivo é implementar um sistema bancário simples com funcionalidades de saque, depósito e visualização de extrato.
 
 ## Funcionalidades
